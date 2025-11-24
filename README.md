@@ -2,7 +2,7 @@
 
 ### Screenshots
 Main Page
-![Main](Screenshot 2025-11-24 181656.png)
+![Main](SC/Screenshot 2025-11-24 181656.png)
 
 ### Job Details
 ![Job](job_details.png)
